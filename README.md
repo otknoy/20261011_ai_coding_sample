@@ -5,7 +5,6 @@ Python 3（追加ライブラリ不要）で、日本証券金融のCSVから品
 コードの処理内容は [コード解説](CODE_GUIDE.md) を参照してください。
 
 ```bash
-cd /Users/otknoy/otsubo
 python3 shina_top20.py
 ```
 
